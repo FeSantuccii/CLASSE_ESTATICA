@@ -1,0 +1,2 @@
+# CLASSE_ESTATICA
+ 
